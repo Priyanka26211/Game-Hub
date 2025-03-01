@@ -4,8 +4,6 @@ Welcome to **GameHub**, your ultimate game browsing experience! 🌟
 
 We pull game data from the fantastic [RAWG.io](https://rawg.io/) and present it beautifully using [Chakra UI](https://chakra-ui.com/).
 
-![GameHub Logo](https://your-awesome-logo-url.com)
-
 ## 🚀 Get Started
 
 ### 📦 NPM Setup
